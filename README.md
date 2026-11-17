@@ -30,9 +30,8 @@ Codex:
 
 ```
 codex plugin marketplace add firstprateek/agent-git-workflow
+codex plugin add agent-git-workflow@agent-git-workflow
 ```
-
-Then install **Agent Git Workflow** from the plugin list.
 
 Google Antigravity: copy `skills/agent-git-workflow/` into `.agents/skills/` in your project.
 
