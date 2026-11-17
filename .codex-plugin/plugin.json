@@ -1,0 +1,12 @@
+{
+  "name": "agent-git-workflow",
+  "version": "0.4.0",
+  "displayName": "Agent Git Workflow",
+  "description": "Coding agents land changes on GitHub on their own: PR, proof, fresh-context review, auto-merge. Only the core parts you choose wait for your approval of a one-page decision record.",
+  "shortDescription": "Agents land GitHub PRs on their own; you approve only what's core",
+  "author": { "name": "firstprateek", "url": "https://github.com/firstprateek" },
+  "license": "MIT",
+  "skills": "./skills/",
+  "category": "Developer Tools",
+  "websiteURL": "https://github.com/firstprateek/agent-git-workflow"
+}
