@@ -1,0 +1,7 @@
+{
+  "name": "agent-git-workflow",
+  "owner": { "name": "firstprateek" },
+  "plugins": [
+    { "name": "agent-git-workflow", "source": "./", "description": "Coding agents land changes on GitHub on their own: PR, proof, fresh-context review, auto-merge. Only the core parts you choose wait for your approval of a one-page decision record." }
+  ]
+}
