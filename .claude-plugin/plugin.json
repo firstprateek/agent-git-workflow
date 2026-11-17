@@ -4,5 +4,16 @@
   "description": "Coding agents land changes on GitHub on their own: PR, proof, fresh-context review, auto-merge. Only the core parts you choose wait for your approval of a one-page decision record.",
   "license": "MIT",
   "repository": "https://github.com/firstprateek/agent-git-workflow",
-  "keywords": ["git", "github", "pull-request", "code-review", "agents", "auto-merge"]
+  "keywords": [
+    "git",
+    "github",
+    "pull-request",
+    "code-review",
+    "agents",
+    "auto-merge"
+  ],
+  "author": {
+    "name": "firstprateek",
+    "url": "https://github.com/firstprateek"
+  }
 }
